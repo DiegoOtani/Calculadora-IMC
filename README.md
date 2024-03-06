@@ -5,4 +5,6 @@
  Obesidade Grau 1;<br>
  Obesidade Grau 2;<br>
  Obesidade Grau 3; <br>
+  Projeto realizado durante o Curso de JavaScript e TypeScript do básico ao avançado JS/TS<br>
+
   Projeto: https://diegootani.github.io/Calculadora-IMC/
